@@ -1,6 +1,6 @@
 # ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）
 
-2026 年想使用 **ChatGPT 中文版**，应该从哪里进入？ChatGPT 官网网址是多少？国内用户如何使用 ChatGPT 网页版？GPT-6、GPT-5.6、Claude Code 和 Codex 又该怎么选择？
+2026 年想使用 **ChatGPT 中文版**，应该从哪里进入？ChatGPT 官网网址是多少？国内用户如何使用 ChatGPT 网页版？GPT-6、GPT-6.1、Claude Code 和 Codex 又该怎么选择？
 
 对于第一次接触 AI 的用户来说，ChatGPT 官网登录、账号注册、模型选择、访问限制及支付方式，都是经常遇到的问题。
 
